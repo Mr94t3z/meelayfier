@@ -9,7 +9,7 @@ Screenshots
 ------------
 
 ![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot.png)
-![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot-disabled.jpeg)
+![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot-disabled.png)
 
 Installation
 ------------
