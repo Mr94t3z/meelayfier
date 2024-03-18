@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
     chrome.storage.sync.get('enabled', function(data) {
         toggle1.checked = data.enabled;
         statusText.textContent = data.enabled ? "You're Meelayifying! Reload the darn thing, you know what I mean - you know, the whole shebang!" : "Meelayifying disabled, you dog-faced pony soldier!";
-        iconDiv.style.backgroundImage = data.enabled ? "url('enable-icon.png')" : "url('disable-icon.png')";
+        iconDiv.style.backgroundImage = data.enabled ? "url('icon.png')" : "url('icon.png')";
         emojiOff.style.display = data.enabled ? 'none' : 'inline'; // Hide/show the "off" emoji
         emojiOn.style.display = data.enabled ? 'inline' : 'none'; // Hide/show the "on" emoji
     });
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         var enabled = toggle1.checked;
         chrome.storage.sync.set({'enabled': enabled}, function() {
             statusText.textContent = enabled ? "You're Meelayifying! Reload the darn thing, you know what I mean - you know, the whole shebang!" : "Meelayifying disabled, you dog-faced pony soldier!";
-            iconDiv.style.backgroundImage = enabled ? "url('enable-icon.png')" : "url('disable-icon.png')";
+            iconDiv.style.backgroundImage = enabled ? "url('icon.png')" : "url('icon.png')";
             emojiOff.style.display = enabled ? 'none' : 'inline'; // Hide/show the "off" emoji
             emojiOn.style.display = enabled ? 'inline' : 'none'; // Hide/show the "on" emoji
             // Optionally, send a message to the content script to toggle the text replacement

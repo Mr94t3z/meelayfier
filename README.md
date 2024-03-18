@@ -1,20 +1,20 @@
-Meelayfier
+Meelayifying
 =============
 
 Chrome extension that replaces occurrences of 'Javier Milei' with 'javor meelay'
 
-[Direct download of crx file](https://github.com/Mr94t3z/meelayfier/blob/master/Meelayfier.crx)
+[Direct download of crx file](https://github.com/Mr94t3z/meelayfier/blob/master/Meelayifying.crx)
 
 Screenshots
 ------------
 
-![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot.png)
+![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot-enabled.png)
 ![](https://github.com/Mr94t3z/meelayfier/blob/master/screenshot-disabled.png)
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag `Meelayfier.crx` into the page that appears.
+In Chrome, choose Window > Extensions.  Drag `Meelayifying.crx` into the page that appears.
 
 Donate
 ------------

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Meelayfier",
+  "name": "Meelayifying",
   "version": "1.0",
   "description": "Replaces 'Javier Milei' with 'javor meelay' on all web pages.",
   "permissions": [
@@ -11,7 +11,7 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "48": "enable-icon.png"
+      "48": "icon.png"
     }
   },
   "content_scripts": [
@@ -22,6 +22,6 @@
     }
   ],
   "icons": {
-    "48": "enable-icon.png"
+    "48": "icon.png"
   }
 }
