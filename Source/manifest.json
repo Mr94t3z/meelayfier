@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Bodenizer",
-  "version": "1.4",
-  "description": "Replaces 'Joe Biden' with 'Jeo Boden' on all web pages.",
+  "name": "Meelayfier",
+  "version": "1.0",
+  "description": "Replaces 'Javier Milei' with 'Javor Meelay' on all web pages.",
   "permissions": [
     "activeTab",
     "storage",

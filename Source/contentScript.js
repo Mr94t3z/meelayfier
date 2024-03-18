@@ -1,8 +1,8 @@
 // Function to replace text
 function replaceText(text) {
     if (!text) return text;
-    text = text.replace(/Biden/g, 'Boden');
-    text = text.replace(/Joe/g, 'Jeo');
+    text = text.replace(/Javier/g, 'Javor');
+    text = text.replace(/Milei/g, 'Meelay');
     return text;
 }
 
