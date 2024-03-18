@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Meelayifying",
+  "name": "Meelayifier",
   "version": "1.0",
   "description": "Replaces 'Javier Milei' with 'javor meelay' on all web pages.",
   "permissions": [
