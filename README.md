@@ -1,7 +1,7 @@
 Meelayfier
 =============
 
-Chrome extension that replaces occurrences of 'Javier Milei' with 'Javor Meelay'
+Chrome extension that replaces occurrences of 'Javier Milei' with 'javor meelay'
 
 [Direct download of crx file](https://github.com/Mr94t3z/meelayfier/blob/master/Meelayfier.crx)
 

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Meelayfier",
   "version": "1.0",
-  "description": "Replaces 'Javier Milei' with 'Javor Meelay' on all web pages.",
+  "description": "Replaces 'Javier Milei' with 'javor meelay' on all web pages.",
   "permissions": [
     "activeTab",
     "storage",
