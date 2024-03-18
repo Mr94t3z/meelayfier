@@ -11,7 +11,7 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "48": "icon.png"
+      "48": "enable-icon.png"
     }
   },
   "content_scripts": [
@@ -22,6 +22,6 @@
     }
   ],
   "icons": {
-    "48": "icon.png"
+    "48": "enable-icon.png"
   }
 }
