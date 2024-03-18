@@ -3,7 +3,7 @@ Meelayfier
 
 Chrome extension that replaces occurrences of 'Javier Milei' with 'Javor Meelay'
 
-[Direct download of crx file]((https://github.com/Mr94t3z/meelayfier/blob/main/Meelayfier.crx)
+[Direct download of crx file](https://github.com/Mr94t3z/meelayfier/blob/main/Meelayfier.crx)
 
 Screenshots
 ------------
