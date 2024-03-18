@@ -23,7 +23,7 @@
   z-index: 100;
 }
 .meelay-toggle .toggle ~ .emoji:before {
-  content: url('disable-switch.png');
+  content: url('toggle.png');
   position: absolute;
   left: 0;
   top: -15px;
@@ -52,7 +52,7 @@
 
 .enable-switch .toggle ~ .emoji:before {
   content: "";
-  background-image: url('disable-switch.png');
+  background-image: url('toggle.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -63,7 +63,7 @@
 
 .enable-switch .toggle:checked ~ .emoji:before {
   content: "";
-  background-image: url('enable-switch.png');
+  background-image: url('toggle.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
